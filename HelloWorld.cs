@@ -1,6 +1,5 @@
 using system;
 namespace hello{
-}
-namespace test{
+  public void main(){
+    return;
   
-}
