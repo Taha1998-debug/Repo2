@@ -4,3 +4,5 @@ namespace hello{
     return;
   }
 }
+namespace hehe{
+}
